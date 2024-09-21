@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="todo">TODO</string>
+    <string name="to_do">TO DO</string>
+    <string name="books_amp_movies"><![CDATA[Books & Movies]]></string>
+    <string name="i_m_grateful_for">I\'m grateful for...</string>
+    <string name="logout">Logout</string>
+    <string name="notes">Notes</string>
+</resources>
